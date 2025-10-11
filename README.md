@@ -6,8 +6,8 @@
 
 - [Node.js](https://nodejs.org/) (versão recomendada: 18+)
 - [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/)
-- [PHP](https://www.php.net/) (versão recomendada: 8.1+)
-- [Laravel](https://laravel.com/) (versão recomendada: 10+)
+- [PHP](https://www.php.net/) (versão recomendada: 8.4+)
+- [Laravel](https://laravel.com/) (versão recomendada: 11+)
 - [Composer](https://getcomposer.org/) (gerenciador de dependências PHP)
 - Banco de dados (ex: [MySQL](https://www.mysql.com/) ou [MariaDB](https://mariadb.org/))
 
