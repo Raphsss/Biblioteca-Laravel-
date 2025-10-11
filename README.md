@@ -1,6 +1,7 @@
-# Biblioteca App
+# Sistema Escolar app
 
- Projeto simples de CRUD para treinar Laravel.
+Plataforma de Gestão Educacional para análise de dados (alunos, professores, etc.) e gestão administrativa. 
+Permite a visualização e administração de turmas, alunos, disciplinas e dependências gerais da escola.
 
 ## Requisitos
 
